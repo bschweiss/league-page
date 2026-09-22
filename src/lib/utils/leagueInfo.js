@@ -7,7 +7,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Welcome to the homepage for the Imagination Football League's 2024 Season.</p>
+  <p>Welcome to the homepage for the Imagination Football League's 2026 Season.</p>
 `;
 
 /*   STEP 3   */
